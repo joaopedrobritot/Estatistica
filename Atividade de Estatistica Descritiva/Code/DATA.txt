@@ -1,0 +1,32 @@
+nome,peso,altura,escolaridade
+Joao Pedro,72,1.74,Graduacao
+Ruan Heleno, 70, 1.83,Graduacao
+Hiago Lopes,74, 1.76,Graduacao
+Luana Júlia, 50, 1.65,Graduacao
+Joao Cavalcante,70,1.67,Superior Completo
+Pedro Schneider,73,1.74,Ensino Medio Completo
+John Davi,68,1.7,Graduacao
+Hugo Gabriel,66,1.74,Graduacao
+Matheus Tamarindo,73, 1.65,Graduacao
+Juanito Tome,90,1.9,Ensino Medio Completo
+Sonia Freitas,78,1.69,Ensino Medio Completo
+Suzane Brito,65,1.63,Superior Completo
+Jaine Brito,74,1.73,Mestrado Completo
+Sofia Tome,55,1.7,Ensino Medio Incompleto
+Isabella Tome,40,1.5,Fundamental Incompleto
+Rodrigo Pereira,70,1.8,Ensino Medio Incompleto
+Luiz Gabriel,35,1.45,Fundamental Incompleto
+Kathia Santina,70,1.9,Superior Completo
+Elizabeth Tome,67,1.65,Superior Completo
+Elisio Tome,73,1.72,Ensino Medio Completo
+Valdomira Tome,72,1.8,Ensino Medio Completo
+Kelvin Santos,64,1.75,Ensino Medio Incompleto
+Carlo Augusto,76,1.78,Graduacao
+Hugo Salatiel,70,1.74,Superior Completo
+Jhonnye Gabriel,73,1.72,Graduacao
+Lucas da Silva,84,1.73,Ensino Medio Incompleto
+Kiara Chaves,60,1.62,Graduacao
+Denise Melo,70,1.74,Ensino Medio Completo
+Nalanda Kaline,72,1.67,Ensino Medio Completo
+Maria Tereza,66,1.71,Ensino Medio Completo
+
